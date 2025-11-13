@@ -1,1 +1,1 @@
-# Master_Thesis
+# Master_Thesis_Skelton_Based_Hand_Gesture_Camparison
